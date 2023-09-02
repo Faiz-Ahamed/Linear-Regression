@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+
+
+#use pip install -r file_name to install the req packages
